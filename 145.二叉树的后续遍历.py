@@ -54,5 +54,3 @@ class Solution:
                 if root.right:     # 如果右孩子不为空，压入右孩子
                     stack.append(root.right)
         return output[::-1]
-
-# 方法三：
