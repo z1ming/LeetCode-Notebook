@@ -11,35 +11,34 @@
 
 **首先，如果我们没有思路，很可能是因为我们的输入不够**。很多题是需要特定的方法才可以解出。比如在力扣周赛的一道题里，需要用到并查集的方法，而我连并查集是什么都不知道，这样即使我怎么想也几乎不可能把题目做出来。所以刚开始想不出来解法的题目可以先看答案学习。
 
-**其次，刷题时最好按照先易到难，分类击破的顺序**。这里参考大神 [Cspiration](https://cspiration.com/) 总结的 「LeetCode分类顺序表」 。此表以不同类别的先易后难的顺序进行了分类，可以为大家节省时间，提高做题的效率。
-#### LeetCode分类顺序表
-
-- 数组 Array
-- 字符串 String
-- 数学 Math
-- 树 Tree
-- 回溯 Backtracking
-- 动态规划 Dynamic Programming
-- 链表 LinkedList
-- 二分查找 Binary Search
-- 矩阵 Matrix
-- 深度&广度优先搜索 DFS & BFS
-- 栈 & 队列 Stack & PriorityQueue
-- 位运算 Bit Manipulation
-- 拓扑排序 Topological Sort
-- 随机 Random
-- 图 Graph
-- 并查集 Union Find
-- 字典树 Trie
-- 设计 Design
-#### 全部题解
-
-- 001 ~ 1320
-- 周赛 & 双周赛
+**其次，刷题时最好按照先易到难，分类击破的顺序**。这里参考大神 Cspiration 总结的 [「LeetCode分类顺序表」](https://cspiration.com/leetcodeClassification) 。此表针对 LeetCode 前 400 题，以不同类别的先易后难的顺序进行了分类，可以为大家节省时间，提高做题的效率。
+## 题解
+### 1. 按照「题目类型」
+- [数组 Array](/分类题解/数组Array)
+- [字符串 String](/分类题解/字符串String)
+- [数学 Math](/分类题解/数学Math)
+- [树 Tree](/分类题解/树Tree)
+- [回溯 Backtracking](/分类题解/回溯Backtracking)
+- [动态规划 Dynamic Programming](/分类题解/动态规划DynamicProgramming)
+- [链表 LinkedList](/分类题解/链表LinkedList)
+- [二分查找 Binary Search](/分类题解/二分查找BinarySearch)
+- [矩阵 Matrix](/分类题解/矩阵Matrix)
+- [深度&广度优先搜索 DFS & BFS](/分类题解/深度&广度优先搜索DFS&BFS)
+- [栈 & 队列 Stack & PriorityQueue](/分类题解/栈&队列Stack&PriorityQueue)
+- [位运算 Bit Manipulation](/分类题解/位运算BitManipulation)
+- [拓扑排序 Topological Sort](/分类题解/拓扑排序TopologicalSort)
+- [随机 Random](/分类题解/随机Random)
+- [图 Graph](/分类题解/图Graph)
+- [并查集 Union Find](/分类题解/并查集UnionFind)
+- [字典树 Trie](/分类题解/字典树Trie)
+- [设计 Design](/分类题解/设计Design)
+### 2. 按「题号」
+- [第 001 题 ~ 第 1320 题](/全部题解)
+- [周赛 & 双周赛](周赛&双周赛)
 ## 关于作者
 - 我的博客：[ziming.xyz](https://www.ziming.xyz/)
-- LeetCode主页：[Pumpkin-力扣](https://leetcode-cn.com/u/ml-zimingmeng/)
-- 微信: [Wechat](/me/wechat.png)
+- LeetCode主页：[Pumpkin🎃](https://leetcode-cn.com/u/ml-zimingmeng/)
+- 微信: [🔰Wechat](/me/wechat.png)
 ## 结尾
 - 为了带来最佳的阅读体验，本文遵循[「中文文案排版指北」](https://github.com/mzlogin/chinese-copywriting-guidelines)。
 - 更多 Markdown 语法，请查看 [官方文档](https://www.markdownguide.org/basic-syntax/)。
