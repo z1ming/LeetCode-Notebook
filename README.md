@@ -5,6 +5,7 @@
 #### LeetCode分类顺序表
 这里参考大神 Cspiration 总结的 [LeetCode分类表顺序表](https://cspiration.com/leetcodeClassification) 。LeetCode 本身并没有顺序，且类别分类的不是非常好，而此表以不同类别的先易后难的顺序进行了分类，可以为大家节省时间，提高做题的效率。
 - 数组 Array
+  
     | 题号 | 题目链接 | 题解链接 | 说明 |	
     |:-:|:--------|:-------:| :---:|		
     |27|Remove Element|视频讲解|    |	
