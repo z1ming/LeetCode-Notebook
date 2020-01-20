@@ -23,16 +23,14 @@
 - 字典树 Trie
 - 设计 Design
 #### 按题号查找
-- 001 ~ 400
-- 401 ~ 800
-- 801 ~ 1320 
+- 001 ~ 1320
+- 周赛 & 双周赛
 ## 关于作者
 - 我的博客：[ziming.xyz](https://www.ziming.xyz/)
 - LeetCode主页：[Pumpkin-力扣](https://leetcode-cn.com/u/ml-zimingmeng/)
-- Wechat: [M Z M](/about/wechat.jpg)
+- 微信号: mengzi925730493
 ## 结尾
 为了带来最佳的阅读体验，本文遵循[「中文文案排版指北」](https://github.com/mzlogin/chinese-copywriting-guidelines)。
-
 更多 Markdown 语法，请查看 [官方文档](https://www.markdownguide.org/basic-syntax/)。
 
 感谢您阅读「LeetCode-Python3习题集」使用说明，祝您刷题愉快！
