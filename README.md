@@ -39,7 +39,7 @@
 ## 关于作者
 - 我的博客：[ziming.xyz](https://www.ziming.xyz/)
 - LeetCode主页：[Pumpkin🎃](https://leetcode-cn.com/u/ml-zimingmeng/)
-- 微信: [🔰Wechat](/me/wechat.png)
+- 微信: [🔰Wechat](/me/wechat.jpg)
 ## 结尾
 - 为了带来最佳的阅读体验，本文遵循[「中文文案排版指北」](https://github.com/mzlogin/chinese-copywriting-guidelines)。
 - 更多 Markdown 语法，请查看 [官方文档](https://www.markdownguide.org/basic-syntax/)。
