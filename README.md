@@ -1,4 +1,7 @@
 # 「LeetCode-Python3习题集」使用说明
+
+[![HitCount](http://hits.dwyl.io/ML-ZimingMeng/LeetCode-Python3.svg)](http://hits.dwyl.io/ML-ZimingMeng/LeetCode-Python3) [![GitHub license](https://img.shields.io/travis/ML-ZimingMeng/LeetCode-Python3.svg)](https://github.com/ML-ZimingMeng/LeetCode-Python3/blob/master/LICENSE)
+
 ## 简介
 「LeetCode-Python3习题集」是本人在LeetCode上的刷题题解，采用Python3书写，供个人参考和学习交流使用。
 ## 如何刷题
