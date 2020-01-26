@@ -33,7 +33,7 @@
 - [随机 Random](/source/Clarification/Random)
 - [图 Graph](/source/Clarification/Graph)
 - [并查集 Union Find](/source/Clarification/Union_Find)
-- [字典树 Trie](/source/Clarification/Trie)
+- [前缀树 Trie](/source/Clarification/Trie)
 - [设计 Design](/source/Clarification/Design)
 ### 2. 按「题号」
 - [第 001 题 ~ 第 1320 题](/source/All_Solutions)
