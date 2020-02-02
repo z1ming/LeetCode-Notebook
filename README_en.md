@@ -1,6 +1,6 @@
 # "LeetCode-Python3 Notebook" Problem Solutions
 
-[![HitCount](http://hits.dwyl.io/ML-ZimingMeng/https://githubcom/ML-ZimingMeng/LeetCode-Python3.svg)](http://hits.dwyl.io/ML-ZimingMeng/https://githubcom/ML-ZimingMeng/LeetCode-Python3) [![GitHub forks](https://img.shields.io/github/forks/ML-ZimingMeng/LeetCode-Python3)](https://github.com/ML-ZimingMeng/LeetCode-Python3/network)   [![GitHub stars](https://img.shields.io/github/stars/ML-ZimingMeng/LeetCode-Python3)](https://github.com/ML-ZimingMeng/LeetCode-Python3/stargazers) [![GitHub license](https://img.shields.io/github/license/ML-ZimingMeng/LeetCode-Python3)](https://github.com/ML-ZimingMeng/LeetCode-Python3/blob/master/LICENSE)
+[![HitCount](http://hits.dwyl.io/ML-ZimingMeng/LeetCode-Python3.svg)](http://hits.dwyl.io/ML-ZimingMeng/LeetCode-Python3) [![GitHub forks](https://img.shields.io/github/forks/ML-ZimingMeng/LeetCode-Python3)](https://github.com/ML-ZimingMeng/LeetCode-Python3/network)   [![GitHub stars](https://img.shields.io/github/stars/ML-ZimingMeng/LeetCode-Python3)](https://github.com/ML-ZimingMeng/LeetCode-Python3/stargazers) [![GitHub license](https://img.shields.io/github/license/ML-ZimingMeng/LeetCode-Python3)](https://github.com/ML-ZimingMeng/LeetCode-Python3/blob/master/LICENSE)
 
 usEnglish Document | [中文说明](README.md)
 ## Introduction
@@ -35,7 +35,7 @@ usEnglish Document | [中文说明](README.md)
 - [Design](/source/Clarification/Design)
 ### 2. Classified by Order
 - [No.1 - No.1340](/source/All_Solutions)
-- [周赛 & 双周赛](/source/weeks) 
+- [Weekly Contests](/source/weeks) 
 > If it is helpful, your ✨Star will be my great honor.^_^
 ## About
 - Blog：[ziming.xyz](https://www.ziming.xyz/)
@@ -43,5 +43,4 @@ usEnglish Document | [中文说明](README.md)
 - Wechat: 🔰925730493
 - Get your own LeetCode submission code in one click and upload it to Github, [click here](https://github.com/ML-ZimingMeng/LeetCodeCN-Submissions-Crawler).
 - In order to bring the best reading experience, this article follows[「中文文案排版指北」](https://github.com/mzlogin/chinese-copywriting-guidelines).
-- For more Markdown syntax, please see [Official Documentation](https://www.markdownguide.org/basic-syntax/).
 - Thank you for reading the "LeetCode-Python3 Problem Solutions" instruction manual, and I wish you a happy reading!

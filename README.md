@@ -1,6 +1,6 @@
 # 「LeetCode-Python3习题集」使用说明
 
-[![HitCount](http://hits.dwyl.io/ML-ZimingMeng/https://githubcom/ML-ZimingMeng/LeetCode-Python3.svg)](http://hits.dwyl.io/ML-ZimingMeng/https://githubcom/ML-ZimingMeng/LeetCode-Python3) [![GitHub forks](https://img.shields.io/github/forks/ML-ZimingMeng/LeetCode-Python3)](https://github.com/ML-ZimingMeng/LeetCode-Python3/network)   [![GitHub stars](https://img.shields.io/github/stars/ML-ZimingMeng/LeetCode-Python3)](https://github.com/ML-ZimingMeng/LeetCode-Python3/stargazers) [![GitHub license](https://img.shields.io/github/license/ML-ZimingMeng/LeetCode-Python3)](https://github.com/ML-ZimingMeng/LeetCode-Python3/blob/master/LICENSE)
+[![HitCount](http://hits.dwyl.io/ML-ZimingMeng/LeetCode-Python3.svg)](http://hits.dwyl.io/ML-ZimingMeng/LeetCode-Python3) [![GitHub forks](https://img.shields.io/github/forks/ML-ZimingMeng/LeetCode-Python3)](https://github.com/ML-ZimingMeng/LeetCode-Python3/network)   [![GitHub stars](https://img.shields.io/github/stars/ML-ZimingMeng/LeetCode-Python3)](https://github.com/ML-ZimingMeng/LeetCode-Python3/stargazers) [![GitHub license](https://img.shields.io/github/license/ML-ZimingMeng/LeetCode-Python3)](https://github.com/ML-ZimingMeng/LeetCode-Python3/blob/master/LICENSE)
 
 [usEnglish Document](README_en.md) | 中文说明
 ## 简介
@@ -45,5 +45,4 @@
 ## 结尾
 - 利用 Python 爬虫获取自己的 LeetCode 提交代码，并上传到 Github，请 [点击这里](https://github.com/ML-ZimingMeng/LeetCodeCN-Submissions-Crawler) 。
 - 为了带来最佳的阅读体验，本文遵循[「中文文案排版指北」](https://github.com/mzlogin/chinese-copywriting-guidelines)。
-- 更多 Markdown 语法，请查看 [官方文档](https://www.markdownguide.org/basic-syntax/)。
 - 感谢您阅读「LeetCode-Python3习题集」使用说明，祝您刷题愉快！
