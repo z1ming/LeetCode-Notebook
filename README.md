@@ -4,7 +4,7 @@
 
 [usEnglish Document](README_en.md) | 中文说明
 ## 简介
-「LeetCode-Python3习题集」是本人在LeetCode上的刷题题解，采用Python3书写，供个人参考和学习交流使用。
+「LeetCode-Python3习题集」是本人在LeetCode上的刷题题解，采用Python3和C++书写，供个人参考和学习交流使用。
 ## 如何刷题
 > 不是因为希望而去坚持，而是因为坚持才有了希望。
 
