@@ -4,7 +4,7 @@
 
 [usEnglish Document](README_en.md) | 中文说明
 ## 简介
-「LeetCode-习题集」是由热爱算法的 LeetCoders 上传的代码集，我们的目标是贡献所有题解！如果您想成为代码贡献者，体会 GitHub 协同合作的乐趣，请阅读 [从零使用github进行多人协作](从零使用github进行多人协作.md)。
+「LeetCode-习题集」是由热爱算法的 LeetCoders 上传的代码集，我们的目标是贡献所有题解！如果您想成为代码贡献者，体会 GitHub 协同合作的乐趣，请阅读 [issue](https://github.com/ML-ZimingMeng/LeetCode-Python3/issues/1) 中的提交准则，提交属于您自己的代码！
 ## 如何刷题
 > 不是因为希望而去坚持，而是因为坚持才有了希望。
 
