@@ -1,10 +1,10 @@
-# 「LeetCode-Python3习题集」使用说明
+# 「LeetCode-习题集」使用说明
 
 [![HitCount](http://hits.dwyl.io/ML-ZimingMeng/LeetCode-Python3.svg)](http://hits.dwyl.io/ML-ZimingMeng/LeetCode-Python3) [![GitHub forks](https://img.shields.io/github/forks/ML-ZimingMeng/LeetCode-Python3)](https://github.com/ML-ZimingMeng/LeetCode-Python3/network)   [![GitHub stars](https://img.shields.io/github/stars/ML-ZimingMeng/LeetCode-Python3)](https://github.com/ML-ZimingMeng/LeetCode-Python3/stargazers) [![GitHub license](https://img.shields.io/github/license/ML-ZimingMeng/LeetCode-Python3)](https://github.com/ML-ZimingMeng/LeetCode-Python3/blob/master/LICENSE)
 
 [usEnglish Document](README_en.md) | 中文说明
 ## 简介
-「LeetCode-Python3习题集」是本人在LeetCode上的刷题题解，采用Python3和C++书写，供个人参考和学习交流使用。
+「LeetCode-习题集」是由热爱算法的 LeetCoders 上传的代码集，我们的目标是贡献所有题解！如果您想成为代码贡献者，体会 GitHub 协同合作的乐趣，请阅读 [从零使用github进行多人协作](从零使用github进行多人协作.md)。
 ## 如何刷题
 > 不是因为希望而去坚持，而是因为坚持才有了希望。
 
