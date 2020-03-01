@@ -2,7 +2,7 @@
 
 [![HitCount](http://hits.dwyl.io/ML-ZimingMeng/LeetCode-Python3.svg)](http://hits.dwyl.io/ML-ZimingMeng/LeetCode-Python3) [![GitHub forks](https://img.shields.io/github/forks/ML-ZimingMeng/LeetCode-Python3)](https://github.com/ML-ZimingMeng/LeetCode-Python3/network)   [![GitHub stars](https://img.shields.io/github/stars/ML-ZimingMeng/LeetCode-Python3)](https://github.com/ML-ZimingMeng/LeetCode-Python3/stargazers) [![GitHub license](https://img.shields.io/github/license/ML-ZimingMeng/LeetCode-Python3)](https://github.com/ML-ZimingMeng/LeetCode-Python3/blob/master/LICENSE)
 
-[usEnglish Document](README_en.md) | 中文说明
+[usEnglish Document](README_en.md) | 中文说明 
 ## 简介
 「LeetCode-习题集」是由热爱算法的 LeetCoders 上传的代码集，我们的目标是贡献所有题解！如果您想成为代码贡献者，体会 GitHub 协同合作的乐趣，请阅读 [issue](https://github.com/ML-ZimingMeng/LeetCode-Python3/issues/1) 中的提交准则，提交属于您自己的代码！
 ## 如何刷题
@@ -36,9 +36,11 @@
 ### 2. 按「题号」
 - [第 001 题 ~ 第 1340 题](/source/All_Solutions)
 - [周赛 & 双周赛](/source/weeks) 
-> 如果觉得有帮助到您，您的点亮✨Star将是我前进的动力^_^
+
+
+
 ## 关于作者
-如果您有更好的建议，欢迎联系我，共同进步😄
+点亮✨Star，共同进步~
 - 我的博客：[ziming.xyz](https://www.ziming.xyz/)
 - LeetCode主页：[Pumpkin🎃](https://leetcode-cn.com/u/ml-zimingmeng/)
 - 微信: 🔰925730493
