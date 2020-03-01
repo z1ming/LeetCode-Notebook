@@ -14,7 +14,7 @@
 
 1. 进入习题集 [仓库](https://github.com/ML-ZimingMeng/LeetCode-Python3)，点击右上角 Fork，将仓库拉取 Fork 到自己的仓库内；
 
-2. 先点击 Branch:master 按钮，再点击 english 按钮，将分支切换到 english 分支；
+2. 先点击 Branch:master 按钮，再点击 english 按钮，将分支切换到 leetcoder 分支；
 
 3. 点击 Clone or Download，然后在下拉列表中点击链接右侧的按钮，这时复制了仓库的链接；
    
@@ -27,7 +27,7 @@
 ```c
 git add .        // 将文件更新
 git commit -m "original commit"   // 提交到分支，并添加说明
-git push -u origin master english  // 将更新内容推送到分支 english 上
+git push -u origin master leetcoder  // 将更新内容推送到分支 leetcoder 上
 ```
 
-7. 回到自己 Fork 的仓库，切换到 english 分支上，点击 Branch:master 按钮右边的 New pull request，之后添加说明之后点击确定就可以等待作者是否接受您的更改啦！
+7. 回到自己 Fork 的仓库，切换到 leetcoder 分支上，点击 Branch:master 按钮右边的 New pull request，之后添加说明之后点击确定就可以等待作者是否接受您的更改啦！
