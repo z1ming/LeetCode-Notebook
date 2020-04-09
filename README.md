@@ -43,7 +43,7 @@
 点亮✨Star，共同进步~
 - 我的博客：[ziming.xyz](https://www.ziming.xyz/)
 - LeetCode主页：[Pumpkin🎃](https://leetcode-cn.com/u/ml-zimingmeng/)
-- 微信: 🔰925730493
+- 公众号: 腐烂的橘子
 ## 结尾
 - 利用 Python 爬虫获取自己的 LeetCode 提交代码，并上传到 Github，请 [点击这里](https://github.com/ML-ZimingMeng/LeetCodeCN-Submissions-Crawler) 。
 - 为了带来最佳的阅读体验，本文遵循[「中文文案排版指北」](https://github.com/mzlogin/chinese-copywriting-guidelines)。
